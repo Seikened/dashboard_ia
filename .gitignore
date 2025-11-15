@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS
+.DS_Store
+
+# Node / frontend
+node_modules/
+dist/
+coverage/
+
+# Docker
+*.pid
+*.log
+docker-compose.override.yml
+.docker
+
+# Env files
+.env
+.env.*
